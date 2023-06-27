@@ -1,5 +1,4 @@
 # Standard_Cell_Project
-I feel immense pleasure and feel privileged in expressing my deepest and most sincere gratitude to my supervisor Puneet Mittal and Niti Gupta, for their excellent guidance throughout in this project work.
 
 This Project is designed using Open Source GLADE Software (https://peardrop.co.uk/) using 2.5um Technology Node. GLADE is an IC layout and schematic editor capable of reading and writing common EDA formats.
 
